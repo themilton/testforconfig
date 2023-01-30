@@ -1,0 +1,2 @@
+Here i am going to learn about the git and i am learning something.
+the command for start the git file in a directory is git int ---> what it do is it basically creates a hidden directory with name .git
